@@ -1,0 +1,110 @@
+* Security+ Testout
+** DONE 1. Introduction
+    - Overview
+** DONE 2. Security Basics
+    + Understanding Attacks
+    + Defense Planning
+    + Access Control
+    + Cryptography Basics
+    + Network Monitoring
+    + Incident Response
+** DONE 3. Policies, Procedures, and Awareness
+    - Security Policies
+    - Risk Management
+    - Business Continuity
+    - Manageable Network Plan
+    - Social Engineering
+    - App Development and Deployment
+    - Employee Management
+    - Mobile Devices
+    - Third-Party Integration
+** DONE 4. Physical
+    * Physical Threats
+    * Device Protection
+    * Network Infrastructure Protection
+** DONE 5. Perimeter
+    - Recon and Denial
+    - Spoofing and Phishing
+    - Security Appliances
+    - Demilitarized Zones (DMZ)
+    - Firewalls
+    - Network Address Translation (NAT)
+    - Virtual Private Network (VPN)
+    - Web Threat Protection
+    - Network Access Protection
+    - Wireless Overview
+    - Wireless Attacks
+    - Wireless Defenses
+** DONE 6. Network [16/16]
+    1. [X] Network Threats
+    2. [X] Network Device Vulnerabilities 
+    3. [X] Network Applications
+    4. [X] Switch Attacks
+    5. [X] Switch Security
+    6. [X] Using VLANs
+    7. [X] Router Security
+    8. [X] Intrusion Detection and Prevention
+    9. [X] Vulnerability Assessment
+    10. [X] Protocol Analyzers
+    11. [X] Remote Access
+    12. [X] Network Authentication
+    13. [X] Penetration Testing
+    14. [X] Virtual Networking
+    15. [X] Software-Defined Networking (SDN)
+    16. [X] Cloud Services
+** TODO 7. Host [13/13]
+    1. [X] Malware
+    2. [X] Password Attacks
+    3. [X] Windows System Hardening
+    4. [X] Hardening Enforcement
+    5. [X] File Server Security
+    6. [X] Linux Host Security
+    7. [X] Embedded Systems
+    8. [X] Log Management
+    9. [X] Audits
+    10. [X] Email
+    11. [X] BYOD Security
+    12. [X] Mobile Device Management
+    13. [X] Host Virtualization
+** TODO 8. Application [14/14]
+    1. [X] Access Control Models
+    2. [X] Authentication
+    3. [X] Authorization
+    4. [X] Web Application Attacks
+    5. [X] Internet Browsers
+    6. [X] Application Development
+    7. [X] Active Directory Overview
+    8. [X] Windows Domain Users and Groups
+    9. [X] Linux Users
+    10. [X] Linux Groups
+    11. [X] Linux User Security
+    12. [X] Group Policy Overview
+    13. [X] Hardening Authentication 1
+    14. [X] Hardening Authentication 2
+** TODO 9. Data
+    - Data
+    - [ ] 
+    - Advanced Cryptography
+    - Cryptography Implementation
+    - Cryptographic Attacks
+    - Symmetric Encryption
+    - Asymmetric Encryption
+    - File Encryption
+    - Public Key Infrastructure (PKI)
+    - Hashing
+    - Data Trasmission Security
+    - Data Loss Prevention (DLP)
+    - Redundancy
+    - Backup and Restore
+    - Cloud Storage
+* Mike Meyers Udemy
+** Risk Management
+** Cryptography
+** Identity and Access Management
+** Tools of the Trade
+** Securing Individual Systems
+** The Basic LAN
+** Beyond the Basic LAN
+** Secure Protocols
+** Testing Your Infrastructure
+** Dealing with Incidents
