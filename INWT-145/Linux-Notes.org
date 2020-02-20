@@ -1,0 +1,48 @@
+* Linux+                                    :Linux:Cheat-Sheet:Notes:
+** Basic File Management
+ * pwd
+   - Prints working/current directory
+ * cd
+   * Change working directory
+   * cd ..
+     * Change to parent directory
+   * cd ../..
+     * Changes two levels up
+   * cd /
+     * Changes to root directory
+ * ls
+   * Displays contents of directory
+   * -a | displays all directory contents including hidden content
+   * -l | dispalys extended information including the owner, modified date, size and permissions
+   * -R | Displays the contents of a directory and all of its subdirectories
+   * -d | Displayes directories but not files
+   * -r | Reverses the sort order
+ * mkdir <directory name>
+   + Creates a new directory
+ * cp
+   * Copies files or directories
+   * 
+ * mv
+   * Moves or renames directories or files
+ * rmdir
+   - Delets an empty directory
+ * rm
+   * Removes file and directories from the file system.
+ * touch
+   * Makes a file if it does not exist
+** Getting Help
+ * man <command or file>
+ * info <command or file>
+ * <command> --help
+   * <command> -h
+ * /usr/share/doc directory
+   * A directory with many useful components
+     * NEWS
+     * README
+     * AUTHOR
+     * OVERVIEW
+     * COPYING
+ * whatis <keyword>
+   * Whatis Database displays one line man page descriptions
+** Text Editors
+ - 
