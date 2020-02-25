@@ -1,0 +1,99 @@
+* Linux+                                                           :INWT-145:
+** TODO 1. Linux Overview
+  - Linux Introduction
+** TODO 2. Using Linux
+  - The Linux Shell
+  - Linux Help
+  - Text Editors
+  - Aliases
+  - Environmental Variables
+  - Shell Config Files
+  - Redirection, Piping and Command Substitution
+  - Directories
+  - Files
+  - Links
+  - Filesystem Hierarchy Standard (FHS)
+  - Locating and Searching Files
+  - Text Stream Processing
+** TODO 3. Installation and Localization
+  - Linux System Design
+  - Linux Installation
+  - Localization
+** TODO 4. Boot and Shutdown
+  - Linux Boot Process
+  - Bootloaders
+  - Systemd Boot Targets
+  - System Services
+  - System Shutdown
+** TODO 5. Graphical User Interfaces
+  - Graphical User Interfaces (GUI)
+  - Linux Desktops
+  - Remote Desktop
+  - Accessibility
+** TODO 6. Software Installation
+  - Red Hat Package Manager (RPM)
+  - Online Package Installation
+  - Debial Package Manager (dpkg)
+  - Shared Libraries
+** TODO 7. Users and Groups
+  - Users and Group Overview
+  - User Management
+  - Group Management
+** TODO 8. Disk and File System Management
+  - MBR Disk Partitions
+  - GUID Partitions
+  - Logical Volume Manager (LVM)
+  - File Systems
+  - Mounting File Systems
+  - File System Maintenance
+  - Disk Quotas
+  - Ownership
+  - Permissions
+  - The Unmask Command
+  - Special Permissions
+  - Archive and Backup
+** TODO 9. Hardware Installation
+  - Device Drivers
+  - Kernel Module Management
+  - Hotplug and Coldplug Devices
+** TODO 10. Processes and System Services
+  - Processes
+  - Process Management
+  - Task Management
+  - Print Management
+  - System Time Configuration
+** TODO 11. System Monitoring
+  - System Logging
+  - Resource Management
+** TODO 12. Networking
+  - IPv4 Overview
+  - Network Interface Configuration
+  - IPv6 Overview
+  - Routing Configuration
+  - Hostname and DNS Configuration
+  - Linux Firewalls
+  - Network Troubleshooting
+** TODO 13. Cloud and Visualization
+  - Cloud and Virtualization Overview
+  - Virtual Machines
+  - Virtual Networking
+** TODO 14. Scripting and Automation
+  - Bash Shell Scripting
+  - Shell Environments, Bash Variables and Parameters
+  - Bash Scripting Logic
+  - Version Control Using Git
+  - Orchestration Processes and Concepts
+** TODO 15. Security
+  - Root Usage
+  - User Security and Restriction
+  - Login Blocking
+  - Network Security
+  - The xinetd Super Daemon
+  - OpenSSH
+  - SSH Port Tunneling
+  - Security-Enhanced Linux (SELinux)
+  - Application Armor (AppArmor)
+  - Public Key Authentication
+  - VPN Access and Authentication
+  - Security Best Practices
+
