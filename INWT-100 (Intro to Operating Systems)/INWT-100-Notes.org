@@ -36,16 +36,16 @@
     - [X] 4.6.4 - Manage Devices 1
     - [X] 4.6.5 - Manage Devices 2
     - [ ] Ch.4 Quiz
- 5) [-] STORAGE [3/10]
+ 5) [-] STORAGE [8/10]
     - [X] 5.2.4 - Install SATA Devices
     - [X] 5.4.5 - Create RAID Arrays
     - [ ] 5.4.6 - Implement a RAID Solution
     - [X] 5.6.3 - Create Volumes
-    - [ ] 5.6.5 - Format Drives
-    - [ ] 5.7.5 - Add Space to Existing Volumes
-    - [ ] 5.8.4 - Implement Storage Spaces
-    - [ ] 5.9.6 - Perform Disk Maintenance
-    - [ ] 5.10.5 - Troubleshoot SATA Devices
+    - [X] 5.6.5 - Format Drives
+    - [X] 5.7.5 - Add Space to Existing Volumes
+    - [X] 5.8.4 - Implement Storage Spaces
+    - [X] 5.9.6 - Perform Disk Maintenance
+    - [X] 5.10.5 - Troubleshoot SATA Devices
     - [ ] Ch.5 Quiz
  6) [ ] NETWORKING [0/13]
     - [ ] 6.2.6 - Select and Install a Network Adapter
