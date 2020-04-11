@@ -97,9 +97,9 @@
      - [ ] 11.5.6 - Manage the Linux File System
      - [ ] 11.5.7 - Manage Linux File Ownership
      - [ ] Ch.11 Quiz
- 12) [ ] System Management [0/24]
-     - [ ] 12.1.13 - Use System Commands
-     - [ ] 12.4.3 - Join a Workstation to a Domain
+ 12) [-] System Management [2/24]
+     - [X] 12.1.13 - Use System Commands
+     - [X] 12.4.3 - Join a Workstation to a Domain
      - [ ] 12.4.6 - Create User Accounts
      - [ ] 12.4.7 - Create OUs
      - [ ] 12.4.8 - Delete OUs
