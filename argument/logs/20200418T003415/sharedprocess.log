@@ -1,0 +1,2 @@
+[2020-04-18 00:34:18.935] [sharedprocess] [info] main {"machineId":"972726c30a0497cc84bf04469485fa9a8c6fb168469d14af7f8065fa5a264c3f","windowId":2}
+[2020-04-18 00:34:18.961] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/master/projects/curriculum/argument/User/snippets'
